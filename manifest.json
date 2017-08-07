@@ -1,0 +1,11 @@
+{
+  "name": "Crabbo",
+  "short_name": "Crabbo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffa500",
+  "description": "CRAB PEOPLE... CRAB PEOPLE!... CRAB PEOPLE!",
+  "related_applications": [{
+    "platform": "web"
+  }]
+}
