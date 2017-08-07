@@ -1,11 +1,21 @@
 {
-  "name": "Crabbo",
-  "short_name": "Crabbo",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#ffa500",
-  "description": "CRAB PEOPLE... CRAB PEOPLE!... CRAB PEOPLE!",
-  "related_applications": [{
-    "platform": "web"
-  }]
+    "name": "Crabbo",
+    "short_name": "Crabbo",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ffa500",
+    "background_color": "#ffa500",
+    "description": "CRAB PEOPLE... CRAB PEOPLE!... CRAB PEOPLE!",
+    "icons": [
+        {
+            "src": "crabboIcon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "related_applications": [
+        {
+            "platform": "web"
+        }
+    ]
 }
